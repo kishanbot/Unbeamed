@@ -13,7 +13,7 @@ Now enter the roblox phishing link and press reverse.
 
 # Credits
 
-rya, Joseyt#0001
+rya, Joseyt#0001, xvz#0006
 
 *vesper#0003*
 
