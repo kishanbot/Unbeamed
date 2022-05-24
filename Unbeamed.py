@@ -21,13 +21,13 @@ class Unbeamed:
         link = self.link.get()
         try:
             if "discord.com" in self.A:
-                N = "https://discord.com"+self.A.split("discord.com")[1].split("'")[0]
+                N = "https://discord.com/api/webhooks"+self.A.split("discord.com/api/webhooks")[1].split("'")[0]
                 q = messagebox.askquestion("Unbeamed || vesper#0003",f"Webhook : {N}\nClick [YES] To copy in clipboard",icon='info')
                 if q == "yes":
                     pyperclip.copy(f"Webhook : {N}")
                     messagebox.showinfo('Unbeamed || vesper#0003','Copied.');found=True;Unbeamed()
             elif "discordapp.com" in self.A:
-                N = "https://discord.com"+self.A.split("discordapp.com")[1].split("'")[0]
+                N = "https://discord.com/api/webhooks"+self.A.split("discordapp.com/api/webhooks")[1].split("'")[0]
                 q = messagebox.askquestion("Unbeamed || vesper#0003",f"Webhook : {N}\nClick [YES] To copy in clipboard",icon='info')
                 if q == "yes":
                     pyperclip.copy(f"Webhook : {N}")
