@@ -5,6 +5,8 @@ Simple and cool python tool to reverse Famous Roblox Phishing links and GENS.
 
 # Usage
 
+Executable Version : (https://github.com/vesperlol/Unbeamed/releases/tag/Unbeamed)
+
 Simply download Python and add it to *PATH* (https://python.org)
 
 Then run the file *requirements.bat* to install the missing libs
